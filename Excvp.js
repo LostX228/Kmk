@@ -33,7 +33,7 @@ function s08() {
     }
     vant.showNotify({
         type: 'success',
-        message: 'Jumb'
+        message: 'HAHAH YDKOM FIH '
     });
 
 
