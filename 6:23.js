@@ -282,7 +282,7 @@ function s101s() {
     }
     vant.showNotify({
         type: 'success',
-        message: 'Awm Switch '
+        message: 'Awm xxxxxx'
     });
 
 
