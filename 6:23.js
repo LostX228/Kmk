@@ -282,7 +282,7 @@ function s101s() {
     }
     vant.showNotify({
         type: 'success',
-        message: '𝐅𝐚𝐬𝐭 𝐒𝐰𝐢𝐭𝐜𝐡 '
+        message: 'Awm Switch '
     });
 
 
@@ -294,7 +294,7 @@ function so89() {
     h5gg.editAll('72340172821233664', 'I64');
     vant.showNotify({
         type: 'success',
-        message: '𝐐𝐮𝐢𝐜𝐤 𝐒𝐰𝐢𝐭𝐜𝐡'
+        message: 'Arm Switch'
     });
 
 
