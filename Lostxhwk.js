@@ -282,7 +282,7 @@ function s101s() {
     }
     vant.showNotify({
         type: 'success',
-        message: 'Awm Switch '
+        message: '𝐀𝐰𝐦 𝐒𝐰𝐢𝐭𝐜𝐡'
     });
 
 
@@ -294,7 +294,7 @@ function so89() {
     h5gg.editAll('72340172821233664', 'I64');
     vant.showNotify({
         type: 'success',
-        message: 'Arm Switch'
+        message: '𝐀𝐫𝐦 𝐒𝐰𝐢𝐭𝐜𝐡'
     });
 
 
@@ -506,7 +506,7 @@ function so92() {
         searchAndReplace(1075000115, -5, 'I32')
 				vant.showNotify({
         type: 'success',
-        message: '𝐀𝐧𝐭𝐞𝐧𝐧𝐚 𝐍𝐮'
+        message: 'YDKOM FIH ALL BY LOSTX'
 			});
 			
 			}
